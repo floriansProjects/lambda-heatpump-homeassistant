@@ -46,7 +46,7 @@ Ergebnis:
 ## Grafana ##
 
 ![Grafana Leistungen](/screenshots/grafana-power.png)  
-*Bild5: Leistung (thermisch + elektrisch) in Grafana*
+*Bild5: Leistung (thermisch + elektrisch) und berechneter COP in Grafana*
 
 
 
