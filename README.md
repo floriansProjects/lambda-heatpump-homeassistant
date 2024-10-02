@@ -21,7 +21,7 @@ Screenshots der eingebauten Steuerung (Zugang über VNC):
 ## Homeassistant ##
 
 Einbindung der Modbus-Register in Homeassistant:
-- [configuration.yaml](/configuration.yaml), nicht vollständig - ggf. folgendes hinzufügen:
+- [configuration.yaml](/configuration.yaml)(bzw. folgendes dort hinzufügen:)
 ```
 modbus: !include modbus.yaml
 sensor: !include sensor.yaml
@@ -55,4 +55,4 @@ Die elektrische Leistung der Heizung (inkl. Steuerung/Pumpen) etc. wird über ei
 COP = P<sub>therm</sub>/P<sub>el</sub>
 
 Die Daten sind bei ca. 10°C Außentemperatur entstanden und wird weiterhin beobachtet.
-:snowflake::snowflake::snowflake:
+❄️❄️❄️
