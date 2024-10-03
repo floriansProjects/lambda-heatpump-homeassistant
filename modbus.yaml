@@ -1,7 +1,8 @@
 # Lambda WP Modbus/TCP Integration
-# based on Lambda Modbus specification dated 11.04.2023
+# based on Lambda Modbus specification dated 11.04.2023 and the following repo:
+# https://github.com/RalfWinter/lambda-heatpump-modbus-tcp-HA
 
-# ip-Adresse ändern / change IP-adress 
+# ip-Adresse ändern / change IP-adress!
 
 - name: "EU13L"
   type: tcp

@@ -1,3 +1,5 @@
+# based on https://homeassistant.com.de/homeassistant/modbus-einbindung-lambda-in-home-assistant/
+
 #### Lambda WP:
 - platform: template
   sensors:
